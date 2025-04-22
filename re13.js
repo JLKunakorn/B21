@@ -1,5 +1,5 @@
 // ข้อความที่ต้องการเช็ค
-let targetWords = ['about','like','about','about,','for','about','about','about','for'];
+let targetWords = ['a little','a few','Few','less','a few','fewer','Little','less'];
 
 // ฟังก์ชั่นเพื่อสุ่มคลิกและเช็คคำ
 function checkAndRefresh(index) {
